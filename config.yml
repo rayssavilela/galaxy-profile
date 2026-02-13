@@ -1,0 +1,115 @@
+# ==============================
+# Galaxy Profile - Rayssa Ferreira Vilela
+# ==============================
+
+username: rayssavilela
+
+profile:
+  name: "Rayssa Ferreira Vilela"
+  tagline: "Cientista da Computação | Desenvolvedora Fullstack | Big Data & IA"
+  company: "MLA Indústria e Serviços Gráficos e Gerais LTDA"
+  location: "Brasil"
+  bio: |
+    Cientista da Computação com experiência em desenvolvimento fullstack
+    e suporte à infraestrutura corporativa. Atuação em projetos acadêmicos
+    e empresariais, com foco em backend, automação com Python e manutenção
+    de sistemas e servidores. Pós-graduanda em Big Data Analytics e
+    Inteligência Artificial.
+  philosophy: '"Transformando dados e código em soluções inteligentes."'
+
+# ==============================
+# Redes Sociais
+# ==============================
+
+social:
+  email: "rayssa2410@outlook.com"
+  linkedin: "rayssa-ferreiravilela"
+  website: "https://rayssavilela.dev"
+
+# ==============================
+# Áreas Principais (Galaxy Arms)
+# ==============================
+
+galaxy_arms:
+  - name: "Backend & APIs"
+    color: "synapse_cyan"
+    items:
+      - "Python"
+      - "PHP"
+      - "Java"
+      - "C++"
+      - "Django"
+      - "REST APIs"
+
+  - name: "Frontend & Interfaces"
+    color: "dendrite_violet"
+    items:
+      - "JavaScript"
+      - "HTML5"
+      - "CSS3"
+
+  - name: "Dados, Infra & DevOps"
+    color: "axon_amber"
+    items:
+      - "MySQL"
+      - "SQL Server"
+      - "Hadoop"
+      - "Git"
+      - "Linux"
+      - "Docker"
+
+# ==============================
+# Projetos em Destaque
+# ==============================
+
+projects:
+  - repo: "Sistema-Fullstack"
+    arm: 0
+    description: "Aplicação fullstack com backend em Django e integração com banco de dados."
+
+  - repo: "API-Academica"
+    arm: 0
+    description: "API REST para integração de dados acadêmicos e autenticação de usuários."
+
+  - repo: "Dashboard-Analytics"
+    arm: 2
+    description: "Projeto de análise de dados utilizando SQL e conceitos de Big Data."
+
+# ==============================
+# Tema (mesma paleta que o seu)
+# ==============================
+
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+# ==============================
+# Estatísticas
+# ==============================
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+# ==============================
+# Linguagens
+# ==============================
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
